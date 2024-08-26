@@ -1,6 +1,6 @@
 ## The Ultimate Guide to Using Git
 
-## Common Git Commands
+## Top 20 git command
 
 	Check status of the repo:
 	```
@@ -11,3 +11,8 @@
 	```
 	git diff
 	```
+
+    Open cool git terminal
+    ```
+    gitk
+    ```
