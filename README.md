@@ -1,4 +1,4 @@
-# git-commands
+## The Ultimate Guide to Using Git
 
 ## Common Git Commands
 
