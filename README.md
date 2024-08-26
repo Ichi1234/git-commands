@@ -1,6 +1,6 @@
 # git-commands
 
-## Common Git Commands
+## TEST
 
 	Check status of the repo:
 	```
